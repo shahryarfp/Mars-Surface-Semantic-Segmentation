@@ -56,7 +56,7 @@ This repository contains the code, report, and additional materials for a two-st
    - Run `second_model.ipynb` to generate refined predictions and achieve improved segmentation performance.
 
 ## Results
-<img src="./result.jpg" width="300" height="300">
+<img src="./result.jpg" width="600" height="300">
 - The first model provides a baseline segmentation but struggles with rare classes.
 - The second model, leveraging the first model’s predictions, improves Mean IoU and class-specific performance.
 - Morphological post-processing and careful preprocessing steps further enhance prediction quality.
