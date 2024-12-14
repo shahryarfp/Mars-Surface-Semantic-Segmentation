@@ -41,7 +41,7 @@ This repository contains the code, report, and additional materials for a two-st
 ## Getting Started
 
 1. **Data Setup**:  
-   Place the provided dataset files in the appropriate paths as indicated in the notebooks. Make sure `mars_for_students.npz` and `cleaned_training_set.npz` are accessible.
+   Place the provided dataset files in the appropriate paths as indicated in the notebooks.
 
 2. **Dependencies**:  
    - Python 3.x  
