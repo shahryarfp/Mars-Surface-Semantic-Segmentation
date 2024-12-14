@@ -4,7 +4,7 @@ This repository contains the code, report, and additional materials for a two-st
 
 ## Contents
 
-- **Preprocessing Notebook** (`preprocessing.ipynb`):  
+- **Preprocessing Notebook** (`ai-hw2-preprocessing.ipynb`):  
   Handles initial data cleaning and preparation.  
   Key steps include:
   - Outlier detection and removal (via template matching, autoencoders, PCA, and k-NN).
@@ -12,14 +12,14 @@ This repository contains the code, report, and additional materials for a two-st
   - Augmentation of minority classes, particularly Big Rock patches.
   - Saving the cleaned and augmented dataset for subsequent training.
 
-- **First Model Notebook** (`first_model.ipynb`):  
+- **First Model Notebook** (`ai-hw2-first-model.ipynb`):  
   Implements the initial U-Net based model with gated skip connections and deep supervision.  
   Highlights include:
   - Use of focal loss to combat class imbalance.
   - Training with a stratified split, data augmentation, and early stopping.
   - Morphological post-processing of predictions to reduce noise.
 
-- **Second Model Notebook** (`second_model.ipynb`):  
+- **Second Model Notebook** (`ai-hw2-second-model.ipynb`):  
   Refines predictions from the first model by using them as additional input channels.  
   Key points:
   - Takes original images and first-model predictions as input.
