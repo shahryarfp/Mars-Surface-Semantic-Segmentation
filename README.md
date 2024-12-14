@@ -67,7 +67,3 @@ Possible future directions include:
 - Experimenting with transformer-based backbones for better global context.
 - Integrating uncertainty estimation and active learning strategies.
 - Automating augmentation pipelines to better handle diverse planetary terrains.
-
-## License
-
-This project is distributed under the MIT License. See `LICENSE` (if provided) for more details.
