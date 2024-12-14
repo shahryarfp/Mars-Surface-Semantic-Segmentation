@@ -32,6 +32,8 @@ This repository contains the code, report, and additional materials for a two-st
   - Methodology, including architectural choices and two-stage design.
   - Experimental results, tables, and figures.
   - Critical discussion and future directions.
+ 
+- **Dataset**: https://www.kaggle.com/datasets/fabioanndl/mars-for-students-npz/data
 
 - **References** (`references.bib`):  
   A set of references used in the report, including foundational papers on deep learning, segmentation architectures, and refinement strategies.
